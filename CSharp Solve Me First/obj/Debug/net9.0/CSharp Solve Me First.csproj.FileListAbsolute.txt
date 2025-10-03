@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\bin\Debug\net9.0\CSharp Solve Me First.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\bin\Debug\net9.0\CSharp Solve Me First.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\bin\Debug\net9.0\CSharp Solve Me First.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\bin\Debug\net9.0\CSharp Solve Me First.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\bin\Debug\net9.0\CSharp Solve Me First.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\refint\CSharp Solve Me First.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\CSharp Solve Me First.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\CSharp Solve Me First\obj\Debug\net9.0\ref\CSharp Solve Me First.dll
