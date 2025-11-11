@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Word Length Analysis/1.0.0": {
+        "runtime": {
+          "Word Length Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Word Length Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

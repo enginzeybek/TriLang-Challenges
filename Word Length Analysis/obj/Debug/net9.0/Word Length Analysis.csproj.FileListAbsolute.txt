@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\bin\Debug\net9.0\Word Length Analysis.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\bin\Debug\net9.0\Word Length Analysis.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\bin\Debug\net9.0\Word Length Analysis.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\bin\Debug\net9.0\Word Length Analysis.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\bin\Debug\net9.0\Word Length Analysis.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\refint\Word Length Analysis.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\Word Length Analysis.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Word Length Analysis\obj\Debug\net9.0\ref\Word Length Analysis.dll
