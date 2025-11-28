@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\bin\Debug\net9.0\the largest number in the series.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\bin\Debug\net9.0\the largest number in the series.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\bin\Debug\net9.0\the largest number in the series.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\bin\Debug\net9.0\the largest number in the series.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\bin\Debug\net9.0\the largest number in the series.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\refint\the largest number in the series.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\the largest number in the series.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\the largest number in the series\obj\Debug\net9.0\ref\the largest number in the series.dll
