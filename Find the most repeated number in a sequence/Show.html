@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <title>Tekrar Eden Sayıyı Bulma</title>
+</head>
+<body>
+   <div class="container">
+    <div class="row">
+        <div class="card">
+            <div class="card-body">
+                <p id="sayi"></p>
+            </div>
+            <div class="card-footer">
+                <button class="btn btn-outline-warning" onclick="BeingRepeatNumber()">Sonucu Gör</button>
+            </div>
+        </div>
+    </div>
+   </div> 
+   <script>
+        function BeingRepeatNumber() {
+            var numbers = prompt("Aralara virgül koyarak sayılar giriniz.");
+            if (!numbers) {
+                window.alert("Boş Geçmeyiniz");
+                return;
+            }
+            var strNumbersArray = numbers.split(",");
+            var intNumbersArray = strNumbersArray.map(Number);
+
+            var count = 0;
+            var result = 0;
+
+            for (let i = 0; i < intNumbersArray.length; i++) {
+
+                var current = intNumbersArray[i];
+                var tempCount = 0;
+
+                for (let j = 0; j < intNumbersArray.length; j++) {
+                    if (current === intNumbersArray[j]) {
+                    tempCount++;
+                    }
+                }
+
+                if (tempCount > count) {
+                    count = tempCount;
+                    result = current;
+                }
+            }   
+
+            document.getElementById("sayi").innerText = `En çok tekrar eden sayı: ${result} (${count} kez)`;
+        }            
+   </script>
+</body>
+</html>
