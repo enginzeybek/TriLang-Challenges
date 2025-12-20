@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pozitif Negatif Sayılar</title>
+</head>
+<body>
+    <div class="container-fluid" id="conn">       
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded",()=>{
+            $("#conn").append(`<div class="row">
+                <div class="table-body">
+                    <p id="result"></p>
+                </div>
+            </div>`);
+            //------------------------------------------------
+            let strNumbers = prompt("Negatif ve pozitif sayıları virgül ile     ayırarak giriniz.");
+            if (!strNumbers) {
+                alert("Boş geçmeyiniz");
+                return;
+            };
+            let strArrayNumbers = strNumbers.split(",");
+            let intArrayNumbers = strArrayNumbers.map(Number);
+            let positive = [];
+            let negative = [];
+            for (let i = 0; i < intArrayNumbers.length; i++) {
+                if (intArrayNumbers[i] == 0) {
+                    positive.push(intArrayNumbers[i]);
+                }
+                else if (intArrayNumbers[i] > 0) {
+                    positive.push(intArrayNumbers[i]);
+                }
+                else if (intArrayNumbers[i] < 0) {
+                    negative.push(intArrayNumbers[i]);
+                }
+                           
+            };     
+            document.getElementById("result").innerText = `Pozitif Sayılar  ${positive.join(", ")}, Negatif Sayılar ${negative.join(", ")}`;       
+        });        
+    </script>
+</body>
+</html>
