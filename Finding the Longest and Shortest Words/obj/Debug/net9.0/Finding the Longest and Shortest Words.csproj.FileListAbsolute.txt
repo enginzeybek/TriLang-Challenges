@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\bin\Debug\net9.0\Finding the Longest and Shortest Words.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\bin\Debug\net9.0\Finding the Longest and Shortest Words.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\bin\Debug\net9.0\Finding the Longest and Shortest Words.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\bin\Debug\net9.0\Finding the Longest and Shortest Words.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\bin\Debug\net9.0\Finding the Longest and Shortest Words.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\refint\Finding the Longest and Shortest Words.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\Finding the Longest and Shortest Words.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Longest and Shortest Words\obj\Debug\net9.0\ref\Finding the Longest and Shortest Words.dll
