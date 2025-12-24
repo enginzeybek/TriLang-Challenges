@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "count like frequencies word in sentence/1.0.0": {
+        "runtime": {
+          "count like frequencies word in sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "count like frequencies word in sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

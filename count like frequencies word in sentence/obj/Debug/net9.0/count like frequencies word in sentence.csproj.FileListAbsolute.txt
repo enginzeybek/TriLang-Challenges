@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\bin\Debug\net9.0\count like frequencies word in sentence.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\bin\Debug\net9.0\count like frequencies word in sentence.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\bin\Debug\net9.0\count like frequencies word in sentence.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\bin\Debug\net9.0\count like frequencies word in sentence.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\bin\Debug\net9.0\count like frequencies word in sentence.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\refint\count like frequencies word in sentence.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\count like frequencies word in sentence.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\count like frequencies word in sentence\obj\Debug\net9.0\ref\count like frequencies word in sentence.dll
