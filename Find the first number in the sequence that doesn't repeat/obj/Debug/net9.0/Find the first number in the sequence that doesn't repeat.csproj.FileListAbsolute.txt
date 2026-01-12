@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\bin\Debug\net9.0\Find the first number in the sequence that doesn't repeat.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\bin\Debug\net9.0\Find the first number in the sequence that doesn't repeat.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\bin\Debug\net9.0\Find the first number in the sequence that doesn't repeat.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\bin\Debug\net9.0\Find the first number in the sequence that doesn't repeat.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\bin\Debug\net9.0\Find the first number in the sequence that doesn't repeat.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\refint\Find the first number in the sequence that doesn't repeat.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\Find the first number in the sequence that doesn't repeat.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first number in the sequence that doesn't repeat\obj\Debug\net9.0\ref\Find the first number in the sequence that doesn't repeat.dll
