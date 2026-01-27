@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\bin\Debug\net9.0\Finding the Second Largest Number.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\bin\Debug\net9.0\Finding the Second Largest Number.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\bin\Debug\net9.0\Finding the Second Largest Number.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\bin\Debug\net9.0\Finding the Second Largest Number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\bin\Debug\net9.0\Finding the Second Largest Number.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\refint\Finding the Second Largest Number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\Finding the Second Largest Number.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Finding the Second Largest Number\obj\Debug\net9.0\ref\Finding the Second Largest Number.dll
