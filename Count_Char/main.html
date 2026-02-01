@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <title>Karakter Sayma</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container-md text-center">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <input type="text" id="entry" class="col-12" />
+                            <p><strong id="result">Sonuç burada görünecek</strong></p>
+                        </div>
+                        <div class="card-footer">
+                            <button class="btn btn-warning" type="submit" onclick="charNumber()">Sonucu Gör</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function charNumber() {
+            var sentence = document.getElementById("entry").value;
+            if (!sentence) {
+                alert("Boş Geçmeyiniz!!!");
+                return;
+            }
+            var strArray = sentence.split(" ");
+
+            var first = strArray[0].length;
+            var others = 0
+            for (let i = 1; i < strArray.length; i++) {                
+                others += strArray[i].length;   
+            }
+                var sum = first + others;
+                document.getElementById("result").innerText = `Karakter sayısı: ${sum}`;
+        }
+    </script>
+</body>
+</html>
