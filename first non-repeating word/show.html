@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <title>Tekrar Etmeyen Kelime</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container">
+            <div class="row text-center align-item:center">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <p id="result">Sonuç</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+let words = prompt("Boşluk ile ayırarak kelimeler giriniz");
+if (!words) {
+    alert("Boş geçmeyiniz");
+} else {
+    words = words.trim();
+    let wordStr = words.split(" ");
+
+    let WordsArray = [];
+    let repeated = [];
+    let result = "";
+
+    for (let i = 0; i < wordStr.length; i++) {
+        let kelime = wordStr[i];
+
+        if (!WordsArray.includes(kelime) && !repeated.includes(kelime)) {
+            WordsArray.push(kelime);
+
+            if (result === "") {
+                result = kelime;
+            }
+        }
+        else if (WordsArray.includes(kelime) && !repeated.includes(kelime)) {
+            repeated.push(kelime);
+
+            if (kelime === result) {
+                result = "";
+            }
+        }
+    }
+
+    document.getElementById("result").innerText =
+        "İlk tekrar etmeyen kelime: " + result;
+}
+</script>
+</body>
+</html>
