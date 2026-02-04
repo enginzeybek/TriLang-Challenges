@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\bin\Debug\net9.0\Find the first increasing number.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\bin\Debug\net9.0\Find the first increasing number.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\bin\Debug\net9.0\Find the first increasing number.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\bin\Debug\net9.0\Find the first increasing number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\bin\Debug\net9.0\Find the first increasing number.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\refint\Find the first increasing number.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\Find the first increasing number.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the first increasing number\obj\Debug\net9.0\ref\Find the first increasing number.dll
