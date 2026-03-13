@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\bin\Debug\net9.0\Find the longest first word.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\bin\Debug\net9.0\Find the longest first word.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\bin\Debug\net9.0\Find the longest first word.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\bin\Debug\net9.0\Find the longest first word.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\bin\Debug\net9.0\Find the longest first word.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\refint\Find the longest first word.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\Find the longest first word.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\Find the longest first word\obj\Debug\net9.0\ref\Find the longest first word.dll
