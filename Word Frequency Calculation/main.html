@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelime Frekansı Hesaplama</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">       
+            <div class="card">
+                <div class="card-header">Kelime Frekansı</div>
+                <div class="card-body">
+                    <h3 class="card-title">Kelime Frekansı Hesapla</h3>
+                    <p class="card-text" id="result">
+                        Çıktı
+                    </p>
+                </div>
+            </div>
+    </div>
+    <script>
+        let words = prompt("Lütfen boşluk ile ayrılmış kelimeler giriniz");
+        let wordsList = words.split(" ");
+        if (!wordsList) {
+            alert("Boş geçmeyiniz");
+            
+        }
+        let newLists = [];
+        let maxCount = 0;
+        let mostWord = "";
+
+        for (let i = 0; i < wordsList.length; i++) {
+            let newWord = wordsList[i];
+            newLists.push(newWord);
+
+            let count = 0;
+
+            for (let j = 0; j < newLists.length; j++) {
+                if (newLists[j] == newWord) {
+                    count++;
+                }
+                
+            }
+
+            if (count > maxCount) {
+            maxCount = count;
+            mostWord = newWord;
+            }
+
+            document.getElementById("result").innerText =
+            `En çok tekrar eden kelime: ${mostWord} (${maxCount} kere)`;
+            
+        }
+    </script>
+</body>
+</html>
