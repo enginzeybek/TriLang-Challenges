@@ -1,0 +1,76 @@
+/* Temel Sıfırlama */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Konteynır Ayarları */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Kart Tasarımı */
+.card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    width: 350px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-header img {
+    width: 100%;
+    display: block;
+}
+
+.card-body {
+    padding: 24px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #1a1a1a;
+    margin-bottom: 12px;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #65676b;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Buton Tasarımı */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}

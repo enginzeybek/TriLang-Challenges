@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\bin\Debug\net9.0\OddAndEven.exe
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\bin\Debug\net9.0\OddAndEven.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\bin\Debug\net9.0\OddAndEven.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\bin\Debug\net9.0\OddAndEven.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\bin\Debug\net9.0\OddAndEven.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\refint\OddAndEven.dll
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.pdb
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\OddAndEven.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TriLang-Challenges\OddAndEven\obj\Debug\net9.0\ref\OddAndEven.dll
